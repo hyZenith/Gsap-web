@@ -1,0 +1,30 @@
+/* sheryians css in one video  */
+ /* css boilerplate
+ understanding css writting way
+understanding height,width
+understanding units ,px and %
+understanding  margin and padding  ---->margin hota hai do elements ke beech ka space ; padding hota hai ek hi element ke andar space
+understanding background image and things related to it
+understanding position absolute
+understanding flexbox
+ ---->width --->justify-content
+ ---->height --->align-items
+ */
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(124, 188, 188);
+}
+/* 
+#box{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+} */
+
+
